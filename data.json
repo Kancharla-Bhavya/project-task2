@@ -1,0 +1,61 @@
+{
+	"details":{
+		"name":"Kancharla Bhavya",
+		"image":"bhavya.jpg",
+		"email":"bhavyakancharla575@gmail.com",
+		"number":"188T1A0575",
+		"address":"1-c/49 gampalagudem mandal"
+	},
+
+	"careerobjective":{
+		"info":"To be associated with your progressive organisation with a dynamic work sphere in order to extract my inherent skills as a professional,to further the organization's objectives and also attain my career tergets in the progress."
+	},
+
+	"educationalqualification":[
+		{
+			"institute":"Dhanekula institute of engineering and technology",
+			"degree":"B.tech",
+			"passoutyear":"2022",
+			"percentage":"90%"
+		},
+
+		{
+			"institute":"narayana junior college",
+			"degree":"Intermediate",
+			"passoutyear":"2018",
+			"percentage":"97.3%"
+		},
+
+		{
+			"institute":"Chigurupati-sri krishnaveni gurukul global talent school",
+			"degree":"SSC",
+			"passoutyear":"2016",
+			"percentage":"95%"
+		}
+	],
+
+	"technicalskills":[
+		{
+			"title":"programming languages",
+			"info":["c,c++,R,python,java,c#"]
+		},
+
+		{
+			"title":"databases",
+			"info":["oracle,sql"]
+		},
+
+		{
+			"title":"operating systems",
+			"info":["unix,windows,ubuntu,kali linux"]
+		}
+		
+
+	],
+
+	"declare":{
+		"info":"I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars."
+	}
+
+		
+}
